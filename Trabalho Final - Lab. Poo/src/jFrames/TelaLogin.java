@@ -150,7 +150,7 @@ public class TelaLogin extends javax.swing.JFrame {
     }//GEN-LAST:event_senhaActionPerformed
 
     private void botaoLoginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botaoLoginActionPerformed
-        if(senha.getText().equals("pedrodaniel")&&usuario.getText().equals("2022201796020222018500")){
+        if(senha.getText().equals("2022201796020222018500")&&usuario.getText().equals("pedrodaniel")){
             Banco banco = new Banco();
             banco.setVisible(true);
         }else{

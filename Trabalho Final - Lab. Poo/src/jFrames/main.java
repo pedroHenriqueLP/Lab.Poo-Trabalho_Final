@@ -8,9 +8,8 @@ public class main {
         tela.setLocationRelativeTo(null);
         tela.setResizable(false);
         tela.setVisible(true); 
-        
-                
-//       O Usuário é: 2022201796020222018500
-//       A Senha é: pedrodaniel  
+                       
+//       O Usuário é: pedrodaniel
+//       A Senha é: 2022201796020222018500
     } 
 }
